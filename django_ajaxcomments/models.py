@@ -1,1 +1,1 @@
-from ajaxcomments import utils
+from django_ajaxcomments import utils
