@@ -20,5 +20,8 @@ setup(
         'Framework :: Django',
         'Programming Language :: Python',
         'Programming Language :: JavaScript',
-    ]
+    ],
+    include_package_data=True,
+    setup_requires=['setuptools_git'],
+    zip_safe=False,
 )
