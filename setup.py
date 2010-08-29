@@ -9,7 +9,8 @@ setup(
     license = "BSD",
     url = "http://github.com/TimFletcher/Django-Ajax-Comments",
     packages = [
-        "django_ajaxcomments"
+        "django_ajaxcomments",
+        "django_ajaxcomments.media"
     ],
     classifiers = [
         'Development Status :: 4 - Beta',
